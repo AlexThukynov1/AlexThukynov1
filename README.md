@@ -5,9 +5,12 @@
 <h1 align="center"> 
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
+
 <h2 align="center">
   🔧 Technologies & Tools
 </h2>
+
+
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
@@ -32,3 +35,13 @@
   <a href="https://prettier.io" target="_blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"></a>
   <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"></a>
 </p>
+
+
+
+<h2>
+  ✉️ Contacts
+</h2>
+
+<a href="mailto:tsykunov.oleksandr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://www.linkedin.com/in/oleksandr-tsykunov-211586197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://t.me/o_tsykunov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
