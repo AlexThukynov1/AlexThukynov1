@@ -2,8 +2,12 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQEyF85OzPlFmw/profile-displaybackgroundimage-shrink_350_1400/0/1678436322195?e=1698278400&v=beta&t=ppm9mb2AlBk33W8AZYLt6ZTdyDyEvDN7LzFmfvGZD_Y" alt="header_image">
 </a>
 
-# Hi there 👋
-##  <u>Technologies & Tools</u>
+<h1 align="center"> 
+  Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
+</h1>
+<h2>
+  🔧 Technologies & Tools
+</h2>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
