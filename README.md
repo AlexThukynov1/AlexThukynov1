@@ -41,7 +41,8 @@
 <h2 align="center">
   ✉️ Contacts
 </h2>
-
-<a href="mailto:tsykunov.oleksandr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" align="center"></a>
-<a href="https://www.linkedin.com/in/oleksandr-tsykunov-211586197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" align="center"></a>
-<a href="https://t.me/o_tsykunov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" align="center"></a>
+<p align="center">
+  <a href="mailto:tsykunov.oleksandr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" align="center"></a>
+  <a href="https://www.linkedin.com/in/oleksandr-tsykunov-211586197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"   align="center"></a>
+  <a href="https://t.me/o_tsykunov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" align="center"></a>
+</p>
