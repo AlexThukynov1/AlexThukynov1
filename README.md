@@ -5,7 +5,7 @@
 <h1 align="center"> 
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
-<h2>
+<h2 align="center">
   🔧 Technologies & Tools
 </h2>
 
