@@ -17,7 +17,7 @@
     <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
   <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"></a>
-  <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/VUEX-41B883?logo=vuex&logoColor=white" alt="vuex"></a>
+  <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/VUEX-41B883?logo=vuex&logoColor=white" alt="vuex" width='120' height='28'></a>
   
  <a href="https://nuxtjs.org" target="_blank"><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxt"></a>
    <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify"></a>
