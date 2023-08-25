@@ -17,12 +17,12 @@
     <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></a>
   <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"></a>
-  <a href="https://vuex.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VUEX-41B883?style=for-the-badge&logo=vuex&logoColor=white&color=41B883" alt="vuex" width='100' height='28'></a>
-  
+  <a href="https://vuex.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VUEX-41B883?style=for-the-badge&logo=vuex&logoColor=white&color=41B883" alt="vuex"></a>
+   <a href="https://router.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VUEX-41B883?style=for-the-badge&logo=vuex&logoColor=white&color=41B883" alt="vue router"></a>
  <a href="https://nuxtjs.org" target="_blank"><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxt"></a>
    <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify"></a>
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></a>
-  <a href="https://reactrouter.com" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"></a>
+  <a href="https://reactrouter.com" target="_blank"><img src="https://img.shields.io/badge/VUE%20ROUTER-41B883?style=for-the-badge&logo=vue-router&logoColor=white&color=41B883" alt="react-router"></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></a>
 <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"></a>
  
