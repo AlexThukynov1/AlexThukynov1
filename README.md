@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -15,3 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###  <u>Technologies & Tools</u>
+### My nested checklist
+- [x] Task 1
+- [ ] Task 2
+  - [x] Subtask A
+  - [ ] Subtask A
+- [x] Task 3
