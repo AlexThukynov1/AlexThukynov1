@@ -1,5 +1,5 @@
 <a style="text-decoration: none" href="[https://github.com/danulqua](https://github.com/AlexThukynov1)">
-  <img src="https://drive.google.com/drive/folders/1SjN-98yGsGEmzptI-psBQ_ml_Z93SLfn" alt="header_image">
+  <img src="https://media.licdn.com/dms/image/D4D16AQEyF85OzPlFmw/profile-displaybackgroundimage-shrink_350_1400/0/1678436322195?e=1703721600&v=beta&t=GQpG0LQg4YAo_iOKyqXMlBWy4ciG63iCi7JLwDNnAJ4" alt="header_image">
 </a>
 
 <h1 align="center"> 
