@@ -1,6 +1,4 @@
-<a style="text-decoration: none" href="[https://github.com/danulqua](https://github.com/AlexThukynov1)">
-  <img src="https://lh3.googleusercontent.com/pw/ABLVV85gwvl_N1hS7fZ5Ku1mEKyKMJKX4a0TXgIZ75ADu4c2KWUNsNqgoF_vjKuqwoF8yKV_oHf_oINNnnSEZnrN0vsk_kuGzL3D2PnKh3a6BBLz0KTuBt5WYS4Ul8roUv6jzUxsdLkg0aOerx71orjAofK_6NUAS0ndZhhd7HfZ0woPffkjla4YxCVsY8Yo37kqwSnT5rgJp6w6yxndgPc44HmH_YfQxyoQtNNseXJH04NBY_W2Kg9mY7g7pQVYha72FXkmElUD2ADRtyueRfA9vy1CgA0jdu7pb1J4Gl85rU-nb-HFhVlE83-9zCmrU3-dssVhSGOkr29Ye6b65pq5BEAAyVuJz1E07CZuLbfrrJ_fXgaPvhp78DDBTbzXGCdESUbgT-i1Wyxi0QC15v8jI6_G7pj-a45aNfX7pfXHDMERkP6H2zX6OebgVejTku6lCkzcZ00ZjaD_QMNG96sxcFFVAb6sK5mEbaMVbl0uNEppt7XeYW8vNE8QrOxi4E5HKH5GMEv_tlfomMIEH5U_UZQBoIbGpyQI3RcebOnIvo76qy3h6j3Yzkjgexj1VlEb2bZaj-i7w-UjklbvULbeOgQ672DXBOGmfXxOHFdxoAO3uPU_4vqZ-yDYbGpZSY6Q4RE3U2LzcN-Txrf-Gxb9Sx90pKVwADNSW-6PSPSKFbj6aKv0GwguB6TMDPgFx_cmgqCxKrkQh6q4zohAnRLBy-UhqvENz6pVqCVknqcBME8NeBbAQRkEH_LXNx0fsnEBRVAk0ZXgTf0GRByX8Vy9qSQKl4Y0QiRlRanU8XdqIlVtQTGEi3OXRjkjE2WTR3A-tE1yNOBzaXCIEJhzoS9lik2m9Pb11QqYsSbt6X0Xckh4L9B5eAIA7TLmAHUMrHDOFyC8tD_jCzgzEIPk0xJtMS8=w1400-h350-s-no-gm?authuser=0" alt="header_image">
-</a>
+
 
 <h1 align="center"> 
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
